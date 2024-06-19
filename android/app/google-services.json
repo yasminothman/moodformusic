@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "297759090064",
+    "project_id": "moodformusic-c413d",
+    "storage_bucket": "moodformusic-c413d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297759090064:android:3fb26bf57583933ca93f15",
+        "android_client_info": {
+          "package_name": "com.example.assignment661"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClgPXlKoXmwTQzGlZ2OUFAbLD_yNArDXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297759090064:android:32bf145e937aa8dfa93f15",
+        "android_client_info": {
+          "package_name": "com.example.csc661_assg1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClgPXlKoXmwTQzGlZ2OUFAbLD_yNArDXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
